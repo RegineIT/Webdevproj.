@@ -1,0 +1,26 @@
+.primary-button {
+  background: #4C7A56;
+  color: whitesmoke;
+  padding: 10px 15px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: 0.2s ease-in-out;
+}
+
+.primary-button:hover {
+  background:#396442
+}
+
+.secondary-button{
+  background: #467951;
+  color: whitesmoke;
+  border: 1px solid #4C7A56;
+  padding: 10px 15px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: 0.2s ease-in-out;
+}
+
+.secondary-button:hover{
+  background: #396442;
+}
